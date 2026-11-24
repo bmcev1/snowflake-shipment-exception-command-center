@@ -60,7 +60,7 @@ The command center provides interactive filters and high-level KPIs including to
 
 
 
-!\[Performance Analytics](images/performance-analytics.png)
+![Performance Analytics](images/performance-analytics.png)
 
 
 
@@ -72,7 +72,7 @@ Carrier and lane performance views help identify areas that may warrant addition
 
 
 
-!\[Exception Management](images/exception-management.png)
+![Exception Management](images/exception-management.png)
 
 
 
