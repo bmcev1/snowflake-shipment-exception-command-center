@@ -48,7 +48,7 @@ The application uses 500 synthetic shipment records and does not contain proprie
 
 
 
-!\[Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](images/dashboard-overview.png)
 
 
 
