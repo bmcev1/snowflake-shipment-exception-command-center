@@ -1,0 +1,501 @@
+SHIPMENT_ID,CARRIER,MODE,ORIGIN_CITY,ORIGIN_STATE,DESTINATION_CITY,DESTINATION_STATE,SHIP_DATE,PLANNED_DELIVERY_DATE,ACTUAL_DELIVERY_DATE,WEIGHT_LBS,FREIGHT_COST,SERVICE_LEVEL,SHIPMENT_STATUS,EXCEPTION_NOTE
+SHP-1001,Apex Freight,LTL,Detroit,MI,Indianapolis,IN,2026-07-11,2026-07-15,2026-07-20,8961,3547.98,Expedited,Delivered,Weather conditions slowed transit and pushed the expected delivery date.
+SHP-1002,Summit Transport,Intermodal,Memphis,TN,Chicago,IL,2026-08-18,2026-08-24,2026-08-24,23514,3525.45,Standard,Delivered,No exception
+SHP-1003,BlueLine Logistics,Intermodal,Atlanta,GA,Chicago,IL,2026-07-08,2026-07-13,2026-07-13,32743,4921.23,Standard,Delivered,No exception
+SHP-1004,Summit Transport,LTL,Atlanta,GA,Chicago,IL,2026-08-13,2026-08-17,2026-08-18,9049,2950.48,Standard,Delivered,Terminal congestion delayed the next movement.
+SHP-1005,Redwood Logistics,LTL,Memphis,TN,Chicago,IL,2026-08-25,2026-08-29,2026-08-29,4297,1454.15,Standard,Delivered,No exception
+SHP-1006,BlueLine Logistics,Intermodal,Nashville,TN,Charlotte,NC,2026-08-22,2026-08-26,2026-08-26,19371,3496.54,Expedited,Delivered,No exception
+SHP-1007,Redwood Logistics,FTL,Memphis,TN,Chicago,IL,2026-09-15,2026-09-16,2026-09-16,36147,8687.69,Expedited,Delivered,No exception
+SHP-1008,Apex Freight,LTL,Detroit,MI,Indianapolis,IN,2026-09-18,2026-09-22,2026-09-22,5777,1921.91,Expedited,Delivered,No exception
+SHP-1009,BlueLine Logistics,LTL,Dallas,TX,Atlanta,GA,2026-10-11,2026-10-16,2026-10-16,7108,1994.74,Standard,Delivered,No exception
+SHP-1010,NorthStar Carriers,FTL,Chicago,IL,Nashville,TN,2026-09-06,2026-09-08,2026-09-10,25101,4058.25,Standard,Delivered,Equipment failure caused the shipment to miss its planned movement.
+SHP-1011,Apex Freight,LTL,Nashville,TN,Charlotte,NC,2026-08-05,2026-08-10,2026-08-10,9515,2731.0,Standard,Delivered,No exception
+SHP-1012,Summit Transport,FTL,Atlanta,GA,Chicago,IL,2026-07-13,2026-07-15,2026-07-15,32903,5056.45,Standard,Delivered,No exception
+SHP-1013,Summit Transport,FTL,Nashville,TN,Charlotte,NC,2026-08-30,2026-08-31,2026-08-31,25385,5076.31,Expedited,Delivered,No exception
+SHP-1014,NorthStar Carriers,FTL,St. Louis,MO,Nashville,TN,2026-08-11,2026-08-13,2026-08-13,22988,3577.73,Standard,Delivered,No exception
+SHP-1015,Redwood Logistics,Air,Columbus,OH,Dallas,TX,2026-08-01,2026-08-02,2026-08-02,2896,4556.23,Expedited,Delivered,No exception
+SHP-1016,Apex Freight,Intermodal,Chicago,IL,Nashville,TN,2026-09-23,2026-09-28,2026-09-28,34260,4449.76,Standard,Delivered,No exception
+SHP-1017,Summit Transport,LTL,Columbus,OH,Dallas,TX,2026-10-11,2026-10-15,2026-10-15,5469,2139.56,Expedited,Delivered,No exception
+SHP-1018,Apex Freight,FTL,St. Louis,MO,Nashville,TN,2026-10-03,2026-10-05,2026-10-05,17646,2594.73,Standard,Delivered,No exception
+SHP-1019,BlueLine Logistics,LTL,St. Louis,MO,Nashville,TN,2026-07-13,2026-07-17,2026-07-17,11139,2956.49,Standard,Delivered,No exception
+SHP-1020,NorthStar Carriers,FTL,Louisville,KY,Atlanta,GA,2026-08-20,2026-08-21,2026-08-21,13948,3183.66,Priority,Delivered,No exception
+SHP-1021,Apex Freight,Intermodal,St. Louis,MO,Nashville,TN,2026-08-28,2026-09-03,2026-09-03,24205,3285.42,Standard,Delivered,No exception
+SHP-1022,Summit Transport,LTL,Louisville,KY,Atlanta,GA,2026-08-13,2026-08-18,2026-08-18,6743,2093.87,Standard,Delivered,No exception
+SHP-1023,Apex Freight,LTL,Memphis,TN,Chicago,IL,2026-07-14,2026-07-18,2026-07-18,8084,2549.57,Standard,Delivered,No exception
+SHP-1024,BlueLine Logistics,Intermodal,Dallas,TX,Atlanta,GA,2026-07-29,2026-08-03,2026-08-03,26404,3836.29,Standard,Delivered,No exception
+SHP-1025,BlueLine Logistics,FTL,Columbus,OH,Dallas,TX,2026-10-05,2026-10-07,2026-10-07,20727,4585.99,Priority,Delivered,No exception
+SHP-1026,Redwood Logistics,FTL,Nashville,TN,Charlotte,NC,2026-08-05,2026-08-07,2026-08-07,16546,3151.25,Standard,Delivered,No exception
+SHP-1027,Redwood Logistics,Intermodal,Atlanta,GA,Chicago,IL,2026-10-15,2026-10-20,2026-10-20,19478,3175.53,Standard,Delivered,No exception
+SHP-1028,Summit Transport,FTL,Memphis,TN,Chicago,IL,2026-08-15,2026-08-16,2026-08-16,40432,7679.41,Expedited,Delivered,No exception
+SHP-1029,BlueLine Logistics,FTL,Chicago,IL,Nashville,TN,2026-10-08,2026-10-10,2026-10-10,29982,4207.34,Standard,Delivered,No exception
+SHP-1030,BlueLine Logistics,LTL,Memphis,TN,Chicago,IL,2026-08-29,2026-09-01,2026-09-02,2504,968.71,Priority,Delivered,Shipment was held while missing documentation was corrected.
+SHP-1031,BlueLine Logistics,LTL,Louisville,KY,Atlanta,GA,2026-08-20,2026-08-24,2026-08-24,788,231.89,Standard,Delivered,No exception
+SHP-1032,NorthStar Carriers,FTL,Atlanta,GA,Chicago,IL,2026-07-16,2026-07-17,2026-07-17,23927,5464.2,Priority,Delivered,No exception
+SHP-1033,Summit Transport,Air,St. Louis,MO,Nashville,TN,2026-10-24,2026-10-26,2026-10-28,678,768.8,Standard,Delivered,Weather conditions slowed transit and pushed the expected delivery date.
+SHP-1034,Apex Freight,LTL,Nashville,TN,Charlotte,NC,2026-09-27,2026-09-30,2026-09-30,7795,3100.26,Priority,Delivered,No exception
+SHP-1035,NorthStar Carriers,Intermodal,St. Louis,MO,Nashville,TN,2026-07-14,2026-07-18,2026-07-18,16979,2821.86,Expedited,Delivered,No exception
+SHP-1036,Redwood Logistics,LTL,Atlanta,GA,Chicago,IL,2026-07-15,2026-07-19,2026-07-19,1807,642.27,Standard,Delivered,No exception
+SHP-1037,NorthStar Carriers,FTL,Indianapolis,IN,Charlotte,NC,2026-08-24,2026-08-27,2026-08-27,34381,4547.46,Standard,Delivered,No exception
+SHP-1038,Redwood Logistics,LTL,Chicago,IL,Nashville,TN,2026-07-24,2026-07-29,2026-07-29,11119,4003.32,Standard,Delivered,No exception
+SHP-1039,Apex Freight,FTL,Louisville,KY,Atlanta,GA,2026-07-20,2026-07-22,2026-07-23,15464,2294.0,Standard,Delivered,Severe weather caused a terminal delay.
+SHP-1040,Summit Transport,FTL,Atlanta,GA,Chicago,IL,2026-08-17,2026-08-20,2026-08-20,38251,5675.88,Standard,Delivered,No exception
+SHP-1041,Summit Transport,FTL,Dallas,TX,Atlanta,GA,2026-09-16,2026-09-19,2026-09-19,20468,3340.74,Standard,Delivered,No exception
+SHP-1042,Apex Freight,FTL,Nashville,TN,Charlotte,NC,2026-09-01,2026-09-02,2026-09-02,13558,2458.77,Expedited,Delivered,No exception
+SHP-1043,Redwood Logistics,Intermodal,Atlanta,GA,Chicago,IL,2026-08-08,2026-08-12,2026-08-12,28835,7504.64,Priority,Delivered,No exception
+SHP-1044,NorthStar Carriers,LTL,Detroit,MI,Indianapolis,IN,2026-07-17,2026-07-22,2026-07-22,10362,2690.71,Standard,Delivered,No exception
+SHP-1045,NorthStar Carriers,FTL,St. Louis,MO,Nashville,TN,2026-08-22,2026-08-24,2026-08-24,30125,4295.09,Standard,Delivered,No exception
+SHP-1046,BlueLine Logistics,FTL,Louisville,KY,Atlanta,GA,2026-08-13,2026-08-15,2026-08-15,32572,5566.01,Standard,Delivered,No exception
+SHP-1047,NorthStar Carriers,LTL,Nashville,TN,Charlotte,NC,2026-08-25,2026-08-30,2026-08-30,6126,1773.77,Standard,Delivered,No exception
+SHP-1048,NorthStar Carriers,LTL,Louisville,KY,Atlanta,GA,2026-09-02,2026-09-06,2026-09-08,8952,2627.96,Standard,Delivered,Weather conditions slowed transit and pushed the expected delivery date.
+SHP-1049,NorthStar Carriers,FTL,St. Louis,MO,Nashville,TN,2026-09-26,2026-09-28,2026-09-28,16122,3988.57,Priority,Delivered,No exception
+SHP-1050,Summit Transport,LTL,Louisville,KY,Atlanta,GA,2026-10-20,2026-10-24,2026-10-24,8802,3005.31,Expedited,Delivered,No exception
+SHP-1051,Summit Transport,FTL,Louisville,KY,Atlanta,GA,2026-09-12,2026-09-14,2026-09-14,29173,4956.87,Standard,Delivered,No exception
+SHP-1052,NorthStar Carriers,LTL,Detroit,MI,Indianapolis,IN,2026-07-29,2026-08-03,2026-08-03,10218,2458.21,Standard,Delivered,No exception
+SHP-1053,Apex Freight,LTL,Detroit,MI,Indianapolis,IN,2026-07-11,2026-07-16,2026-07-16,9405,2645.85,Standard,Delivered,No exception
+SHP-1054,NorthStar Carriers,LTL,Atlanta,GA,Chicago,IL,2026-10-04,2026-10-08,2026-10-08,4100,995.32,Standard,Delivered,No exception
+SHP-1055,Apex Freight,LTL,Chicago,IL,Nashville,TN,2026-10-21,2026-10-25,2026-10-25,8892,2921.02,Standard,Delivered,No exception
+SHP-1056,BlueLine Logistics,LTL,Detroit,MI,Indianapolis,IN,2026-09-17,2026-09-22,2026-09-22,10233,2544.01,Standard,Delivered,No exception
+SHP-1057,Redwood Logistics,LTL,Indianapolis,IN,Charlotte,NC,2026-10-11,2026-10-15,2026-10-15,7265,2047.13,Standard,Delivered,No exception
+SHP-1058,Apex Freight,Intermodal,Columbus,OH,Dallas,TX,2026-10-25,2026-10-30,2026-10-30,10362,1636.34,Standard,Delivered,No exception
+SHP-1059,BlueLine Logistics,FTL,Detroit,MI,Indianapolis,IN,2026-10-02,2026-10-03,2026-10-03,38376,9894.17,Priority,Delivered,No exception
+SHP-1060,Apex Freight,Air,Dallas,TX,Atlanta,GA,2026-07-17,2026-07-19,2026-07-23,3468,3932.81,Standard,Delayed,Severe weather caused a terminal delay.
+SHP-1061,Redwood Logistics,Intermodal,Dallas,TX,Atlanta,GA,2026-10-18,2026-10-23,2026-10-24,34600,5842.06,Standard,Delayed,Equipment failure caused the shipment to miss its planned movement.
+SHP-1062,BlueLine Logistics,Intermodal,Chicago,IL,Nashville,TN,2026-07-15,2026-07-19,2026-07-19,34594,6286.2,Priority,Delivered,No exception
+SHP-1063,Redwood Logistics,FTL,Columbus,OH,Dallas,TX,2026-07-25,2026-07-28,2026-07-28,34356,6710.61,Standard,Delivered,No exception
+SHP-1064,Summit Transport,LTL,Dallas,TX,Atlanta,GA,2026-07-02,2026-07-06,2026-07-06,6509,2051.68,Standard,Delivered,No exception
+SHP-1065,Redwood Logistics,LTL,Louisville,KY,Atlanta,GA,2026-07-07,2026-07-11,2026-07-11,10668,3153.8,Standard,Delivered,No exception
+SHP-1066,BlueLine Logistics,FTL,Chicago,IL,Nashville,TN,2026-09-10,2026-09-11,2026-09-11,19634,4735.22,Priority,Delivered,No exception
+SHP-1067,NorthStar Carriers,Intermodal,Columbus,OH,Dallas,TX,2026-07-18,2026-07-23,2026-07-23,27341,3675.84,Standard,Delivered,No exception
+SHP-1068,Summit Transport,FTL,Nashville,TN,Charlotte,NC,2026-09-21,2026-09-23,2026-09-23,15880,2421.01,Standard,Delivered,No exception
+SHP-1069,Apex Freight,FTL,Nashville,TN,Charlotte,NC,2026-08-03,2026-08-06,2026-08-06,30330,4810.04,Standard,Delivered,No exception
+SHP-1070,Apex Freight,FTL,Columbus,OH,Dallas,TX,2026-09-11,2026-09-13,2026-09-15,26318,3962.06,Standard,Delivered,Shipment was held while missing documentation was corrected.
+SHP-1071,Summit Transport,LTL,Detroit,MI,Indianapolis,IN,2026-09-12,2026-09-16,2026-09-16,4441,1334.69,Standard,Delivered,No exception
+SHP-1072,Summit Transport,FTL,Louisville,KY,Atlanta,GA,2026-09-14,2026-09-17,2026-09-17,34101,6404.62,Standard,Delivered,No exception
+SHP-1073,Redwood Logistics,LTL,Louisville,KY,Atlanta,GA,2026-07-30,2026-08-02,2026-08-02,4915,1785.98,Expedited,Delivered,No exception
+SHP-1074,Summit Transport,Intermodal,Chicago,IL,Nashville,TN,2026-07-09,2026-07-14,2026-07-14,18418,2485.12,Standard,Delivered,No exception
+SHP-1075,NorthStar Carriers,LTL,Memphis,TN,Chicago,IL,2026-08-22,2026-08-27,2026-08-27,5275,1282.76,Standard,Delivered,No exception
+SHP-1076,BlueLine Logistics,FTL,Indianapolis,IN,Charlotte,NC,2026-09-11,2026-09-14,2026-09-14,40753,6671.5,Standard,Delivered,No exception
+SHP-1077,Summit Transport,LTL,Memphis,TN,Chicago,IL,2026-09-29,2026-10-02,2026-10-02,4337,1531.13,Expedited,Delivered,No exception
+SHP-1078,Apex Freight,FTL,Detroit,MI,Indianapolis,IN,2026-09-02,2026-09-04,2026-09-04,37089,6112.93,Standard,Delivered,No exception
+SHP-1079,BlueLine Logistics,Air,Atlanta,GA,Chicago,IL,2026-08-30,2026-08-31,2026-08-31,1381,1688.53,Standard,Delivered,No exception
+SHP-1080,Apex Freight,LTL,Chicago,IL,Nashville,TN,2026-08-22,2026-08-26,2026-08-26,2580,667.44,Standard,Delivered,No exception
+SHP-1081,NorthStar Carriers,FTL,Indianapolis,IN,Charlotte,NC,2026-10-28,2026-10-31,2026-10-31,12417,1709.91,Standard,Delivered,No exception
+SHP-1082,Apex Freight,LTL,Atlanta,GA,Chicago,IL,2026-10-10,2026-10-14,2026-10-14,8208,2132.03,Standard,Delivered,No exception
+SHP-1083,NorthStar Carriers,LTL,Memphis,TN,Chicago,IL,2026-10-20,2026-10-25,2026-10-25,6611,1936.63,Standard,Delivered,No exception
+SHP-1084,NorthStar Carriers,Intermodal,Memphis,TN,Chicago,IL,2026-08-30,2026-09-04,2026-09-04,35509,4590.26,Standard,Delivered,No exception
+SHP-1085,Redwood Logistics,FTL,Louisville,KY,Atlanta,GA,2026-10-28,2026-10-31,2026-10-31,23745,4059.98,Standard,Delivered,No exception
+SHP-1086,Apex Freight,FTL,Memphis,TN,Chicago,IL,2026-07-23,2026-07-25,2026-07-25,25446,6573.06,Priority,Delivered,No exception
+SHP-1087,Summit Transport,FTL,Chicago,IL,Nashville,TN,2026-09-02,2026-09-04,2026-09-04,36083,7572.26,Expedited,Delivered,No exception
+SHP-1088,NorthStar Carriers,Intermodal,Nashville,TN,Charlotte,NC,2026-09-30,2026-10-04,2026-10-04,38897,6900.73,Expedited,Delivered,No exception
+SHP-1089,Apex Freight,LTL,Dallas,TX,Atlanta,GA,2026-09-16,2026-09-21,2026-09-21,5294,1759.16,Standard,Delivered,No exception
+SHP-1090,Redwood Logistics,LTL,Dallas,TX,Atlanta,GA,2026-08-04,2026-08-08,2026-08-09,4485,1949.14,Expedited,Delivered,Limited linehaul capacity caused the shipment to roll to the next departure.
+SHP-1091,Redwood Logistics,LTL,Memphis,TN,Chicago,IL,2026-10-26,2026-10-30,2026-10-30,1475,644.95,Expedited,Delivered,No exception
+SHP-1092,BlueLine Logistics,Intermodal,Nashville,TN,Charlotte,NC,2026-07-07,2026-07-12,2026-07-13,37947,5356.28,Standard,Delayed,Consignee requested a later delivery appointment.
+SHP-1093,NorthStar Carriers,Intermodal,Detroit,MI,Indianapolis,IN,2026-10-17,2026-10-22,2026-10-22,17009,1909.55,Standard,Delivered,No exception
+SHP-1094,Redwood Logistics,LTL,Nashville,TN,Charlotte,NC,2026-08-31,2026-09-05,2026-09-05,5115,1731.77,Standard,Delivered,No exception
+SHP-1095,BlueLine Logistics,Intermodal,Indianapolis,IN,Charlotte,NC,2026-10-02,2026-10-08,2026-10-08,31289,4064.82,Standard,Delivered,No exception
+SHP-1096,Summit Transport,Intermodal,Dallas,TX,Atlanta,GA,2026-08-02,2026-08-08,2026-08-08,12544,1961.13,Standard,Delivered,No exception
+SHP-1097,Summit Transport,Air,Atlanta,GA,Chicago,IL,2026-10-02,2026-10-03,2026-10-03,565,810.43,Standard,Delivered,No exception
+SHP-1098,Summit Transport,LTL,Atlanta,GA,Chicago,IL,2026-09-23,2026-09-27,2026-09-27,11026,3047.03,Standard,Delivered,No exception
+SHP-1099,Apex Freight,FTL,Memphis,TN,Chicago,IL,2026-09-05,2026-09-07,2026-09-07,40895,6364.5,Standard,Delivered,No exception
+SHP-1100,NorthStar Carriers,Air,Columbus,OH,Dallas,TX,2026-08-20,2026-08-22,2026-08-22,2209,3383.72,Expedited,Delivered,No exception
+SHP-1101,BlueLine Logistics,FTL,Indianapolis,IN,Charlotte,NC,2026-08-06,2026-08-08,2026-08-08,18469,4548.45,Priority,Delivered,No exception
+SHP-1102,Summit Transport,FTL,Chicago,IL,Nashville,TN,2026-08-05,2026-08-07,2026-08-07,16663,2652.05,Standard,Delivered,No exception
+SHP-1103,Apex Freight,LTL,Louisville,KY,Atlanta,GA,2026-09-15,2026-09-18,2026-09-18,11425,4398.92,Expedited,Delivered,No exception
+SHP-1104,Redwood Logistics,Intermodal,Indianapolis,IN,Charlotte,NC,2026-10-06,2026-10-10,2026-10-10,15555,2717.4,Expedited,Delivered,No exception
+SHP-1105,Summit Transport,Air,St. Louis,MO,Nashville,TN,2026-10-21,2026-10-22,2026-10-27,2983,3317.34,Standard,Delivered,Carrier reported a mechanical issue with the tractor.
+SHP-1106,Redwood Logistics,LTL,Columbus,OH,Dallas,TX,2026-07-06,2026-07-10,2026-07-11,9442,3218.35,Standard,Delivered,Carrier reported a mechanical issue with the tractor.
+SHP-1107,Summit Transport,LTL,Memphis,TN,Chicago,IL,2026-08-04,2026-08-08,2026-08-08,2369,726.78,Standard,Delivered,No exception
+SHP-1108,Apex Freight,FTL,Indianapolis,IN,Charlotte,NC,2026-08-28,2026-08-31,2026-08-31,35418,5385.2,Standard,Delivered,No exception
+SHP-1109,BlueLine Logistics,FTL,Memphis,TN,Chicago,IL,2026-10-12,2026-10-15,2026-10-15,34319,5838.8,Standard,Delivered,No exception
+SHP-1110,BlueLine Logistics,LTL,Columbus,OH,Dallas,TX,2026-07-06,2026-07-09,2026-07-10,2230,857.2,Expedited,Delivered,Weather conditions slowed transit and pushed the expected delivery date.
+SHP-1111,Apex Freight,LTL,Dallas,TX,Atlanta,GA,2026-07-14,2026-07-18,2026-07-18,7046,2266.77,Standard,Delivered,No exception
+SHP-1112,Summit Transport,Intermodal,Chicago,IL,Nashville,TN,2026-08-24,2026-08-29,2026-08-29,39856,5505.05,Standard,Delivered,No exception
+SHP-1113,Redwood Logistics,LTL,Indianapolis,IN,Charlotte,NC,2026-10-19,2026-10-24,2026-10-24,11824,4147.36,Standard,Delivered,No exception
+SHP-1114,Apex Freight,LTL,Memphis,TN,Chicago,IL,2026-08-05,2026-08-09,2026-08-09,7811,2041.14,Standard,Delivered,No exception
+SHP-1115,BlueLine Logistics,FTL,Atlanta,GA,Chicago,IL,2026-07-04,2026-07-07,2026-07-07,16964,2733.01,Standard,Delivered,No exception
+SHP-1116,BlueLine Logistics,FTL,Detroit,MI,Indianapolis,IN,2026-07-18,2026-07-20,2026-07-21,32107,5593.64,Expedited,Exception,Limited linehaul capacity caused the shipment to roll to the next departure.
+SHP-1117,BlueLine Logistics,FTL,Chicago,IL,Nashville,TN,2026-09-08,2026-09-10,2026-09-14,14733,3519.65,Priority,Delivered,Required shipping paperwork was incomplete and delayed processing.
+SHP-1118,NorthStar Carriers,LTL,Chicago,IL,Nashville,TN,2026-08-11,2026-08-16,2026-08-16,2682,736.69,Standard,Delivered,No exception
+SHP-1119,Apex Freight,Intermodal,Dallas,TX,Atlanta,GA,2026-07-28,2026-08-03,2026-08-03,28323,3913.53,Standard,Delivered,No exception
+SHP-1120,NorthStar Carriers,LTL,St. Louis,MO,Nashville,TN,2026-08-02,2026-08-07,2026-08-07,2222,597.49,Standard,Delivered,No exception
+SHP-1121,Summit Transport,LTL,Nashville,TN,Charlotte,NC,2026-07-02,2026-07-06,2026-07-10,5191,1544.71,Standard,Exception,Shipment was held while missing documentation was corrected.
+SHP-1122,Apex Freight,FTL,Indianapolis,IN,Charlotte,NC,2026-07-22,2026-07-24,2026-07-24,39378,7929.52,Expedited,Delivered,No exception
+SHP-1123,Redwood Logistics,Intermodal,Detroit,MI,Indianapolis,IN,2026-08-19,2026-08-25,2026-08-25,29583,4972.18,Standard,Delivered,No exception
+SHP-1124,NorthStar Carriers,FTL,Nashville,TN,Charlotte,NC,2026-09-07,2026-09-09,2026-09-09,37968,7771.42,Priority,Delivered,No exception
+SHP-1125,Apex Freight,LTL,Indianapolis,IN,Charlotte,NC,2026-07-26,2026-07-31,2026-07-31,9758,3168.39,Standard,Delivered,No exception
+SHP-1126,NorthStar Carriers,FTL,St. Louis,MO,Nashville,TN,2026-08-17,2026-08-20,2026-08-20,29430,4467.03,Standard,Delivered,No exception
+SHP-1127,Summit Transport,LTL,Nashville,TN,Charlotte,NC,2026-08-10,2026-08-14,2026-08-14,9343,2603.62,Standard,Delivered,No exception
+SHP-1128,Apex Freight,FTL,Memphis,TN,Chicago,IL,2026-09-21,2026-09-23,2026-09-23,19308,5187.96,Priority,Delivered,No exception
+SHP-1129,Summit Transport,FTL,Atlanta,GA,Chicago,IL,2026-10-26,2026-10-28,2026-10-28,13711,2167.55,Standard,Delivered,No exception
+SHP-1130,Summit Transport,LTL,Dallas,TX,Atlanta,GA,2026-07-06,2026-07-08,2026-07-08,8004,3404.53,Priority,Delivered,No exception
+SHP-1131,BlueLine Logistics,FTL,Indianapolis,IN,Charlotte,NC,2026-08-06,2026-08-08,2026-08-08,15156,3263.16,Expedited,Delivered,No exception
+SHP-1132,Redwood Logistics,FTL,Memphis,TN,Chicago,IL,2026-10-23,2026-10-26,2026-10-26,21134,3370.63,Standard,Delivered,No exception
+SHP-1133,Redwood Logistics,LTL,Atlanta,GA,Chicago,IL,2026-09-01,2026-09-05,2026-09-05,5725,2027.21,Standard,Delivered,No exception
+SHP-1134,Apex Freight,LTL,Memphis,TN,Chicago,IL,2026-09-09,2026-09-14,2026-09-14,4769,1500.85,Standard,Delivered,No exception
+SHP-1135,Apex Freight,FTL,Detroit,MI,Indianapolis,IN,2026-08-19,2026-08-20,2026-08-20,33802,7975.7,Priority,Delivered,No exception
+SHP-1136,Apex Freight,FTL,Dallas,TX,Atlanta,GA,2026-10-10,2026-10-12,2026-10-12,25496,4372.12,Standard,Delivered,No exception
+SHP-1137,Apex Freight,Intermodal,Atlanta,GA,Chicago,IL,2026-09-03,2026-09-09,2026-09-09,19992,2584.87,Standard,Delivered,No exception
+SHP-1138,BlueLine Logistics,Intermodal,Chicago,IL,Nashville,TN,2026-10-21,2026-10-25,2026-10-25,25530,4296.41,Expedited,Delivered,No exception
+SHP-1139,BlueLine Logistics,LTL,Louisville,KY,Atlanta,GA,2026-08-13,2026-08-17,2026-08-17,1528,473.75,Standard,Delivered,No exception
+SHP-1140,Summit Transport,LTL,Dallas,TX,Atlanta,GA,2026-07-20,2026-07-24,2026-07-25,3411,1159.97,Standard,Delivered,Equipment failure caused the shipment to miss its planned movement.
+SHP-1141,NorthStar Carriers,LTL,Nashville,TN,Charlotte,NC,2026-08-18,2026-08-23,2026-08-23,11869,3383.55,Standard,Delivered,No exception
+SHP-1142,BlueLine Logistics,FTL,Columbus,OH,Dallas,TX,2026-09-20,2026-09-21,2026-09-22,13713,3350.64,Priority,Delayed,Consignee requested a later delivery appointment.
+SHP-1143,Redwood Logistics,Intermodal,Indianapolis,IN,Charlotte,NC,2026-08-04,2026-08-10,2026-08-15,18419,2543.67,Standard,Delivered,Carrier capacity constraints delayed pickup.
+SHP-1144,Summit Transport,LTL,Dallas,TX,Atlanta,GA,2026-07-19,2026-07-24,2026-07-24,5260,1593.55,Standard,Delivered,No exception
+SHP-1145,NorthStar Carriers,LTL,Memphis,TN,Chicago,IL,2026-09-18,2026-09-23,2026-09-23,11426,2797.78,Standard,Delivered,No exception
+SHP-1146,Apex Freight,Intermodal,St. Louis,MO,Nashville,TN,2026-10-27,2026-11-01,2026-11-01,32392,5205.08,Standard,Delivered,No exception
+SHP-1147,NorthStar Carriers,LTL,Columbus,OH,Dallas,TX,2026-09-02,2026-09-06,2026-09-06,11397,3246.47,Standard,Delivered,No exception
+SHP-1148,BlueLine Logistics,LTL,Columbus,OH,Dallas,TX,2026-09-09,2026-09-13,2026-09-13,4300,1545.39,Expedited,Delivered,No exception
+SHP-1149,Summit Transport,LTL,Columbus,OH,Dallas,TX,2026-08-11,2026-08-15,2026-08-17,1946,620.36,Standard,Delivered,Shipment was held while missing documentation was corrected.
+SHP-1150,Apex Freight,LTL,Atlanta,GA,Chicago,IL,2026-07-24,2026-07-28,2026-07-28,3337,1106.75,Expedited,Delivered,No exception
+SHP-1151,Redwood Logistics,FTL,Indianapolis,IN,Charlotte,NC,2026-08-03,2026-08-06,2026-08-06,34247,6186.36,Standard,Delivered,No exception
+SHP-1152,BlueLine Logistics,Air,Louisville,KY,Atlanta,GA,2026-09-23,2026-09-25,2026-09-25,1095,1193.82,Standard,Delivered,No exception
+SHP-1153,NorthStar Carriers,LTL,Nashville,TN,Charlotte,NC,2026-09-04,2026-09-07,2026-09-07,8559,2949.78,Expedited,Delivered,No exception
+SHP-1154,Redwood Logistics,Intermodal,Memphis,TN,Chicago,IL,2026-08-23,2026-08-27,2026-08-27,19666,3832.09,Expedited,Delivered,No exception
+SHP-1155,Summit Transport,FTL,St. Louis,MO,Nashville,TN,2026-08-18,2026-08-21,2026-08-21,21481,4089.57,Standard,Delivered,No exception
+SHP-1156,Redwood Logistics,LTL,Chicago,IL,Nashville,TN,2026-09-28,2026-10-01,2026-10-01,6027,2270.75,Expedited,Delivered,No exception
+SHP-1157,NorthStar Carriers,FTL,St. Louis,MO,Nashville,TN,2026-08-25,2026-08-28,2026-08-28,20592,3299.02,Standard,Delivered,No exception
+SHP-1158,BlueLine Logistics,FTL,Indianapolis,IN,Charlotte,NC,2026-10-12,2026-10-14,2026-10-14,22084,3675.42,Standard,Delivered,No exception
+SHP-1159,BlueLine Logistics,LTL,Dallas,TX,Atlanta,GA,2026-07-14,2026-07-18,2026-07-18,3794,953.13,Standard,Delivered,No exception
+SHP-1160,Apex Freight,LTL,Chicago,IL,Nashville,TN,2026-08-20,2026-08-22,2026-08-23,11780,5790.2,Priority,Delivered,Carrier reported a mechanical issue with the tractor.
+SHP-1161,Redwood Logistics,Intermodal,Columbus,OH,Dallas,TX,2026-07-14,2026-07-19,2026-07-19,22705,3549.74,Standard,Delivered,No exception
+SHP-1162,BlueLine Logistics,LTL,St. Louis,MO,Nashville,TN,2026-07-03,2026-07-06,2026-07-06,1718,781.45,Priority,Delivered,No exception
+SHP-1163,Apex Freight,FTL,Dallas,TX,Atlanta,GA,2026-10-26,2026-10-28,2026-10-30,24743,3861.5,Standard,Delayed,Consignee requested a later delivery appointment.
+SHP-1164,Redwood Logistics,FTL,Nashville,TN,Charlotte,NC,2026-08-19,2026-08-21,2026-08-21,36042,8889.62,Expedited,Delivered,No exception
+SHP-1165,BlueLine Logistics,Intermodal,Dallas,TX,Atlanta,GA,2026-08-09,2026-08-14,2026-08-14,18417,2167.39,Standard,Delivered,No exception
+SHP-1166,Apex Freight,LTL,Indianapolis,IN,Charlotte,NC,2026-07-01,2026-07-04,2026-07-04,900,359.61,Expedited,Delivered,No exception
+SHP-1167,BlueLine Logistics,FTL,Dallas,TX,Atlanta,GA,2026-08-02,2026-08-04,2026-08-04,25644,4363.28,Expedited,Delivered,No exception
+SHP-1168,Redwood Logistics,LTL,Columbus,OH,Dallas,TX,2026-08-17,2026-08-21,2026-08-21,9152,3160.56,Standard,Delivered,No exception
+SHP-1169,NorthStar Carriers,FTL,Columbus,OH,Dallas,TX,2026-09-14,2026-09-16,2026-09-16,40856,5372.9,Standard,Delivered,No exception
+SHP-1170,Apex Freight,FTL,Memphis,TN,Chicago,IL,2026-07-22,2026-07-23,2026-07-23,23955,4393.57,Expedited,Delivered,No exception
+SHP-1171,Redwood Logistics,LTL,St. Louis,MO,Nashville,TN,2026-07-23,2026-07-28,2026-07-28,11491,3416.08,Standard,Delivered,No exception
+SHP-1172,Redwood Logistics,LTL,St. Louis,MO,Nashville,TN,2026-07-27,2026-07-31,2026-07-31,8950,2937.12,Standard,Delivered,No exception
+SHP-1173,BlueLine Logistics,LTL,Atlanta,GA,Chicago,IL,2026-09-02,2026-09-06,2026-09-06,4778,1237.68,Standard,Delivered,No exception
+SHP-1174,Summit Transport,LTL,Indianapolis,IN,Charlotte,NC,2026-08-20,2026-08-23,2026-08-23,6954,2498.67,Expedited,Delivered,No exception
+SHP-1175,Apex Freight,FTL,Louisville,KY,Atlanta,GA,2026-09-15,2026-09-18,2026-09-19,12283,2204.1,Standard,Delivered,Shipment was held while missing documentation was corrected.
+SHP-1176,Redwood Logistics,LTL,Atlanta,GA,Chicago,IL,2026-10-09,2026-10-14,2026-10-15,5952,1771.06,Standard,Delivered,Required shipping paperwork was incomplete and delayed processing.
+SHP-1177,Redwood Logistics,FTL,Chicago,IL,Nashville,TN,2026-09-01,2026-09-03,2026-09-07,17408,2994.58,Standard,Delivered,Severe weather caused a terminal delay.
+SHP-1178,BlueLine Logistics,LTL,Indianapolis,IN,Charlotte,NC,2026-10-05,2026-10-10,2026-10-10,8544,2117.14,Standard,Delivered,No exception
+SHP-1179,Apex Freight,LTL,Chicago,IL,Nashville,TN,2026-07-14,2026-07-18,2026-07-18,10303,3290.69,Standard,Delivered,No exception
+SHP-1180,NorthStar Carriers,Air,Louisville,KY,Atlanta,GA,2026-07-26,2026-07-27,2026-07-27,1927,2179.52,Standard,Delivered,No exception
+SHP-1181,Redwood Logistics,FTL,Nashville,TN,Charlotte,NC,2026-10-05,2026-10-06,2026-10-06,26959,8399.76,Priority,Delivered,No exception
+SHP-1182,Redwood Logistics,LTL,Memphis,TN,Chicago,IL,2026-08-26,2026-08-30,2026-08-30,2994,867.11,Standard,Delivered,No exception
+SHP-1183,Apex Freight,LTL,Detroit,MI,Indianapolis,IN,2026-10-12,2026-10-17,2026-10-17,5200,1584.83,Standard,Delivered,No exception
+SHP-1184,BlueLine Logistics,Intermodal,Nashville,TN,Charlotte,NC,2026-10-01,2026-10-06,2026-10-06,39080,5167.05,Standard,Delivered,No exception
+SHP-1185,Summit Transport,LTL,Indianapolis,IN,Charlotte,NC,2026-09-18,2026-09-23,2026-09-23,4476,1222.46,Standard,Delivered,No exception
+SHP-1186,BlueLine Logistics,LTL,Dallas,TX,Atlanta,GA,2026-10-12,2026-10-16,2026-10-16,9219,2386.2,Standard,Delivered,No exception
+SHP-1187,NorthStar Carriers,Intermodal,Louisville,KY,Atlanta,GA,2026-10-08,2026-10-13,2026-10-18,30069,3777.05,Standard,Delivered,Terminal congestion delayed the next movement.
+SHP-1188,Summit Transport,LTL,St. Louis,MO,Nashville,TN,2026-07-05,2026-07-09,2026-07-09,805,269.51,Standard,Delivered,No exception
+SHP-1189,BlueLine Logistics,LTL,Columbus,OH,Dallas,TX,2026-09-07,2026-09-12,2026-09-12,10627,2841.09,Standard,Delivered,No exception
+SHP-1190,Redwood Logistics,FTL,Atlanta,GA,Chicago,IL,2026-09-06,2026-09-08,2026-09-08,35248,6357.82,Standard,Delivered,No exception
+SHP-1191,BlueLine Logistics,Air,Nashville,TN,Charlotte,NC,2026-10-11,2026-10-12,2026-10-12,3853,5330.08,Expedited,Delivered,No exception
+SHP-1192,Redwood Logistics,Intermodal,Dallas,TX,Atlanta,GA,2026-07-13,2026-07-18,2026-07-18,26932,4329.8,Standard,Delivered,No exception
+SHP-1193,Redwood Logistics,FTL,Columbus,OH,Dallas,TX,2026-07-16,2026-07-18,2026-07-18,18636,3138.2,Standard,Delivered,No exception
+SHP-1194,Redwood Logistics,Intermodal,Detroit,MI,Indianapolis,IN,2026-08-06,2026-08-12,2026-08-12,25614,4206.22,Standard,Delivered,No exception
+SHP-1195,Summit Transport,LTL,Dallas,TX,Atlanta,GA,2026-10-03,2026-10-08,2026-10-10,11553,3267.89,Standard,Delivered,Weather conditions slowed transit and pushed the expected delivery date.
+SHP-1196,Summit Transport,FTL,Memphis,TN,Chicago,IL,2026-07-24,2026-07-25,2026-07-25,24447,5686.17,Priority,Delivered,No exception
+SHP-1197,Redwood Logistics,Intermodal,Louisville,KY,Atlanta,GA,2026-09-17,2026-09-22,2026-09-22,22871,3133.62,Standard,Delivered,No exception
+SHP-1198,BlueLine Logistics,Air,Louisville,KY,Atlanta,GA,2026-09-18,2026-09-19,2026-09-19,2226,4373.79,Priority,Delivered,No exception
+SHP-1199,BlueLine Logistics,Intermodal,Memphis,TN,Chicago,IL,2026-07-06,2026-07-11,2026-07-14,13525,2051.44,Expedited,Delivered,Carrier capacity constraints delayed pickup.
+SHP-1200,Redwood Logistics,LTL,Detroit,MI,Indianapolis,IN,2026-08-17,2026-08-21,2026-08-21,11641,3457.72,Standard,Delivered,No exception
+SHP-1201,Summit Transport,Air,Indianapolis,IN,Charlotte,NC,2026-09-19,2026-09-21,2026-09-21,2209,3152.42,Standard,Delivered,No exception
+SHP-1202,Redwood Logistics,Intermodal,St. Louis,MO,Nashville,TN,2026-10-10,2026-10-16,2026-10-16,33874,5356.11,Standard,Delivered,No exception
+SHP-1203,Redwood Logistics,Air,Atlanta,GA,Chicago,IL,2026-09-30,2026-10-01,2026-10-01,3464,5587.75,Expedited,Delivered,No exception
+SHP-1204,BlueLine Logistics,FTL,Dallas,TX,Atlanta,GA,2026-08-16,2026-08-19,2026-08-19,35396,6022.46,Standard,Delivered,No exception
+SHP-1205,Redwood Logistics,FTL,St. Louis,MO,Nashville,TN,2026-10-12,2026-10-14,2026-10-14,36548,6556.3,Standard,Delivered,No exception
+SHP-1206,BlueLine Logistics,Air,St. Louis,MO,Nashville,TN,2026-10-21,2026-10-23,2026-10-24,291,306.15,Standard,Delivered,Shipment was held while missing documentation was corrected.
+SHP-1207,Redwood Logistics,FTL,St. Louis,MO,Nashville,TN,2026-09-14,2026-09-16,2026-09-16,30534,7632.32,Expedited,Delivered,No exception
+SHP-1208,Apex Freight,FTL,Memphis,TN,Chicago,IL,2026-08-18,2026-08-20,2026-08-20,37482,6525.52,Standard,Delivered,No exception
+SHP-1209,BlueLine Logistics,FTL,Dallas,TX,Atlanta,GA,2026-09-03,2026-09-05,2026-09-05,31596,4739.61,Standard,Delivered,No exception
+SHP-1210,Redwood Logistics,LTL,Indianapolis,IN,Charlotte,NC,2026-09-24,2026-09-29,2026-09-29,9955,3221.26,Standard,Delivered,No exception
+SHP-1211,Apex Freight,LTL,Louisville,KY,Atlanta,GA,2026-09-01,2026-09-05,2026-09-05,11941,3494.21,Standard,Delivered,No exception
+SHP-1212,Redwood Logistics,FTL,Columbus,OH,Dallas,TX,2026-07-29,2026-07-31,2026-07-31,30335,6112.97,Standard,Delivered,No exception
+SHP-1213,Apex Freight,Intermodal,Chicago,IL,Nashville,TN,2026-08-26,2026-09-01,2026-09-01,11809,1744.21,Standard,Delivered,No exception
+SHP-1214,NorthStar Carriers,LTL,Detroit,MI,Indianapolis,IN,2026-07-24,2026-07-29,2026-07-29,3969,1109.09,Standard,Delivered,No exception
+SHP-1215,BlueLine Logistics,Air,Detroit,MI,Indianapolis,IN,2026-09-19,2026-09-21,2026-09-21,1758,2015.85,Standard,Delivered,No exception
+SHP-1216,Apex Freight,LTL,Detroit,MI,Indianapolis,IN,2026-09-10,2026-09-15,2026-09-15,4949,1505.88,Standard,Delivered,No exception
+SHP-1217,Apex Freight,Intermodal,Dallas,TX,Atlanta,GA,2026-09-28,2026-10-04,2026-10-04,13321,1718.9,Standard,Delivered,No exception
+SHP-1218,BlueLine Logistics,FTL,Dallas,TX,Atlanta,GA,2026-07-23,2026-07-26,2026-07-26,17084,2382.63,Standard,Delivered,No exception
+SHP-1219,NorthStar Carriers,LTL,Detroit,MI,Indianapolis,IN,2026-08-12,2026-08-16,2026-08-16,3644,879.3,Standard,Delivered,No exception
+SHP-1220,NorthStar Carriers,LTL,Louisville,KY,Atlanta,GA,2026-08-20,2026-08-24,2026-08-24,7188,2086.74,Standard,Delivered,No exception
+SHP-1221,NorthStar Carriers,Intermodal,Indianapolis,IN,Charlotte,NC,2026-08-23,2026-08-28,2026-08-30,20824,2615.45,Standard,Delivered,Equipment failure caused the shipment to miss its planned movement.
+SHP-1222,NorthStar Carriers,FTL,Dallas,TX,Atlanta,GA,2026-08-02,2026-08-05,2026-08-05,21089,2897.75,Standard,Delivered,No exception
+SHP-1223,Summit Transport,Intermodal,Detroit,MI,Indianapolis,IN,2026-09-14,2026-09-20,2026-09-20,28708,4370.69,Standard,Delivered,No exception
+SHP-1224,Redwood Logistics,Intermodal,Columbus,OH,Dallas,TX,2026-10-15,2026-10-19,2026-10-20,23828,4627.46,Expedited,Delivered,Carrier capacity constraints delayed pickup.
+SHP-1225,Summit Transport,Intermodal,Detroit,MI,Indianapolis,IN,2026-09-05,2026-09-11,2026-09-11,16755,2705.23,Standard,Delivered,No exception
+SHP-1226,NorthStar Carriers,Intermodal,Nashville,TN,Charlotte,NC,2026-07-20,2026-07-24,2026-07-24,32470,5396.82,Expedited,Delivered,No exception
+SHP-1227,BlueLine Logistics,FTL,St. Louis,MO,Nashville,TN,2026-10-21,2026-10-24,2026-10-24,20889,2930.27,Standard,Delivered,No exception
+SHP-1228,NorthStar Carriers,Intermodal,Chicago,IL,Nashville,TN,2026-07-08,2026-07-14,2026-07-14,30129,3559.67,Standard,Delivered,No exception
+SHP-1229,Apex Freight,FTL,Indianapolis,IN,Charlotte,NC,2026-10-06,2026-10-08,2026-10-08,16201,4419.26,Priority,Delivered,No exception
+SHP-1230,Summit Transport,FTL,Indianapolis,IN,Charlotte,NC,2026-09-06,2026-09-07,2026-09-07,41581,10170.32,Priority,Delivered,No exception
+SHP-1231,Summit Transport,LTL,Detroit,MI,Indianapolis,IN,2026-10-02,2026-10-07,2026-10-07,10104,2685.23,Standard,Delivered,No exception
+SHP-1232,Summit Transport,Air,Louisville,KY,Atlanta,GA,2026-07-26,2026-07-27,2026-07-27,2943,3320.42,Standard,Delivered,No exception
+SHP-1233,Redwood Logistics,LTL,Dallas,TX,Atlanta,GA,2026-08-17,2026-08-21,2026-08-23,2671,860.09,Standard,Delivered,Terminal congestion delayed the next movement.
+SHP-1234,NorthStar Carriers,LTL,Dallas,TX,Atlanta,GA,2026-10-26,2026-10-30,2026-11-02,11119,3180.01,Standard,Delivered,Severe weather caused a terminal delay.
+SHP-1235,Summit Transport,LTL,Dallas,TX,Atlanta,GA,2026-07-23,2026-07-27,2026-07-27,9655,3193.63,Standard,Delivered,No exception
+SHP-1236,NorthStar Carriers,FTL,Indianapolis,IN,Charlotte,NC,2026-08-03,2026-08-05,2026-08-05,27403,3753.14,Standard,Delivered,No exception
+SHP-1237,Summit Transport,LTL,Columbus,OH,Dallas,TX,2026-10-10,2026-10-14,2026-10-14,2362,777.48,Standard,Delivered,No exception
+SHP-1238,Apex Freight,Intermodal,Indianapolis,IN,Charlotte,NC,2026-07-30,2026-08-04,2026-08-04,25691,5009.38,Expedited,Delivered,No exception
+SHP-1239,Apex Freight,LTL,Louisville,KY,Atlanta,GA,2026-08-06,2026-08-10,2026-08-10,1975,811.44,Expedited,Delivered,No exception
+SHP-1240,Apex Freight,LTL,Detroit,MI,Indianapolis,IN,2026-07-23,2026-07-27,2026-07-27,1032,404.9,Expedited,Delivered,No exception
+SHP-1241,Redwood Logistics,FTL,St. Louis,MO,Nashville,TN,2026-08-04,2026-08-06,2026-08-06,27086,4945.02,Standard,Delivered,No exception
+SHP-1242,Redwood Logistics,LTL,Memphis,TN,Chicago,IL,2026-10-04,2026-10-06,2026-10-06,3829,1933.45,Priority,Delivered,No exception
+SHP-1243,NorthStar Carriers,LTL,Detroit,MI,Indianapolis,IN,2026-07-23,2026-07-25,2026-07-25,8801,4124.63,Priority,Delivered,No exception
+SHP-1244,BlueLine Logistics,LTL,Memphis,TN,Chicago,IL,2026-07-09,2026-07-14,2026-07-16,7579,1976.56,Standard,Delivered,Consignee requested a later delivery appointment.
+SHP-1245,NorthStar Carriers,Intermodal,Nashville,TN,Charlotte,NC,2026-07-30,2026-08-05,2026-08-05,17062,2299.32,Standard,Delivered,No exception
+SHP-1246,NorthStar Carriers,FTL,Nashville,TN,Charlotte,NC,2026-10-08,2026-10-11,2026-10-11,33358,4924.02,Standard,Delivered,No exception
+SHP-1247,Summit Transport,FTL,Chicago,IL,Nashville,TN,2026-09-29,2026-09-30,2026-09-30,24491,4552.81,Expedited,Delivered,No exception
+SHP-1248,Redwood Logistics,FTL,Memphis,TN,Chicago,IL,2026-09-28,2026-09-29,2026-09-29,34382,7097.34,Expedited,Delivered,No exception
+SHP-1249,Summit Transport,LTL,Louisville,KY,Atlanta,GA,2026-10-04,2026-10-08,2026-10-13,5589,1772.62,Standard,Delivered,Consignee requested a later delivery appointment.
+SHP-1250,Apex Freight,LTL,Columbus,OH,Dallas,TX,2026-08-07,2026-08-11,2026-08-11,10128,2861.88,Standard,Delivered,No exception
+SHP-1251,Redwood Logistics,FTL,Nashville,TN,Charlotte,NC,2026-09-08,2026-09-09,2026-09-09,39087,10339.68,Priority,Delivered,No exception
+SHP-1252,Redwood Logistics,FTL,Dallas,TX,Atlanta,GA,2026-07-23,2026-07-25,2026-07-30,14630,2358.04,Standard,Delivered,Delivery appointment was rescheduled by the customer.
+SHP-1253,Apex Freight,LTL,Detroit,MI,Indianapolis,IN,2026-08-06,2026-08-10,2026-08-10,11297,4098.42,Expedited,Delivered,No exception
+SHP-1254,NorthStar Carriers,LTL,Detroit,MI,Indianapolis,IN,2026-08-11,2026-08-15,2026-08-16,9661,2413.18,Standard,Delivered,Terminal congestion delayed the next movement.
+SHP-1255,BlueLine Logistics,FTL,St. Louis,MO,Nashville,TN,2026-10-11,2026-10-12,2026-10-12,21230,4254.68,Expedited,Delivered,No exception
+SHP-1256,NorthStar Carriers,FTL,Nashville,TN,Charlotte,NC,2026-07-30,2026-08-01,2026-08-01,20536,3123.97,Standard,Delivered,No exception
+SHP-1257,NorthStar Carriers,FTL,Dallas,TX,Atlanta,GA,2026-09-13,2026-09-15,2026-09-15,32243,5281.4,Expedited,Delivered,No exception
+SHP-1258,NorthStar Carriers,LTL,Columbus,OH,Dallas,TX,2026-10-28,2026-11-01,2026-11-01,10074,2509.67,Standard,Delivered,No exception
+SHP-1259,NorthStar Carriers,LTL,Atlanta,GA,Chicago,IL,2026-10-08,2026-10-12,2026-10-12,5934,2050.11,Expedited,Delivered,No exception
+SHP-1260,NorthStar Carriers,LTL,Nashville,TN,Charlotte,NC,2026-09-16,2026-09-21,2026-09-21,1880,505.68,Standard,Delivered,No exception
+SHP-1261,Apex Freight,Intermodal,St. Louis,MO,Nashville,TN,2026-08-27,2026-09-02,2026-09-02,24050,3372.57,Standard,Delivered,No exception
+SHP-1262,Summit Transport,FTL,Dallas,TX,Atlanta,GA,2026-09-09,2026-09-11,2026-09-11,22994,4124.78,Standard,Delivered,No exception
+SHP-1263,NorthStar Carriers,LTL,Detroit,MI,Indianapolis,IN,2026-07-04,2026-07-08,2026-07-10,11323,2892.77,Standard,Delayed,Shipment was held while missing documentation was corrected.
+SHP-1264,Summit Transport,Intermodal,Dallas,TX,Atlanta,GA,2026-07-28,2026-08-02,2026-08-02,32683,5470.94,Standard,Delivered,No exception
+SHP-1265,Redwood Logistics,FTL,Indianapolis,IN,Charlotte,NC,2026-09-20,2026-09-22,2026-09-22,34524,6971.71,Standard,Delivered,No exception
+SHP-1266,Redwood Logistics,LTL,Dallas,TX,Atlanta,GA,2026-09-02,2026-09-05,2026-09-07,11229,4947.11,Expedited,Exception,Equipment failure caused the shipment to miss its planned movement.
+SHP-1267,Summit Transport,Intermodal,Columbus,OH,Dallas,TX,2026-10-27,2026-11-01,2026-11-01,18074,3380.8,Expedited,Delivered,No exception
+SHP-1268,Apex Freight,LTL,Louisville,KY,Atlanta,GA,2026-08-19,2026-08-23,2026-08-23,9789,2751.61,Standard,Delivered,No exception
+SHP-1269,BlueLine Logistics,FTL,Louisville,KY,Atlanta,GA,2026-07-16,2026-07-18,2026-07-18,25388,5178.75,Expedited,Delivered,No exception
+SHP-1270,Redwood Logistics,FTL,Louisville,KY,Atlanta,GA,2026-07-14,2026-07-16,2026-07-16,38754,6121.82,Standard,Delivered,No exception
+SHP-1271,BlueLine Logistics,LTL,Chicago,IL,Nashville,TN,2026-07-07,2026-07-11,2026-07-13,10261,2797.33,Standard,Delayed,Carrier capacity constraints delayed pickup.
+SHP-1272,Apex Freight,FTL,St. Louis,MO,Nashville,TN,2026-10-16,2026-10-19,2026-10-19,39118,5761.37,Standard,Delivered,No exception
+SHP-1273,Redwood Logistics,LTL,Indianapolis,IN,Charlotte,NC,2026-07-24,2026-07-28,2026-07-28,10520,4031.56,Expedited,Delivered,No exception
+SHP-1274,Summit Transport,FTL,Nashville,TN,Charlotte,NC,2026-08-27,2026-08-30,2026-08-30,13378,2386.56,Standard,Delivered,No exception
+SHP-1275,BlueLine Logistics,LTL,Chicago,IL,Nashville,TN,2026-07-30,2026-08-04,2026-08-04,6504,1900.93,Standard,Delivered,No exception
+SHP-1276,Redwood Logistics,LTL,Chicago,IL,Nashville,TN,2026-07-13,2026-07-18,2026-07-19,3324,1063.35,Standard,Delayed,Carrier capacity constraints delayed pickup.
+SHP-1277,Apex Freight,FTL,Louisville,KY,Atlanta,GA,2026-10-20,2026-10-22,2026-10-22,12535,3534.63,Priority,Delivered,No exception
+SHP-1278,Summit Transport,LTL,Chicago,IL,Nashville,TN,2026-07-24,2026-07-27,2026-07-27,2701,1137.79,Priority,Delivered,No exception
+SHP-1279,Summit Transport,LTL,Chicago,IL,Nashville,TN,2026-10-10,2026-10-14,2026-10-14,5298,1472.39,Standard,Delivered,No exception
+SHP-1280,NorthStar Carriers,FTL,Detroit,MI,Indianapolis,IN,2026-07-23,2026-07-25,2026-07-25,33682,5911.27,Expedited,Delivered,No exception
+SHP-1281,Summit Transport,LTL,Nashville,TN,Charlotte,NC,2026-10-25,2026-10-30,2026-10-30,2510,761.0,Standard,Delivered,No exception
+SHP-1282,Summit Transport,LTL,Nashville,TN,Charlotte,NC,2026-10-22,2026-10-27,2026-10-27,2797,797.4,Standard,Delivered,No exception
+SHP-1283,Redwood Logistics,Intermodal,Louisville,KY,Atlanta,GA,2026-09-13,2026-09-18,2026-09-18,30788,4365.18,Standard,Delivered,No exception
+SHP-1284,Summit Transport,LTL,Chicago,IL,Nashville,TN,2026-08-07,2026-08-11,2026-08-11,9177,2648.72,Standard,Delivered,No exception
+SHP-1285,NorthStar Carriers,Intermodal,Louisville,KY,Atlanta,GA,2026-08-10,2026-08-15,2026-08-15,35282,5112.1,Standard,Delivered,No exception
+SHP-1286,BlueLine Logistics,FTL,St. Louis,MO,Nashville,TN,2026-09-21,2026-09-22,2026-09-23,17612,2956.08,Expedited,Delivered,Equipment failure caused the shipment to miss its planned movement.
+SHP-1287,BlueLine Logistics,LTL,Columbus,OH,Dallas,TX,2026-08-02,2026-08-06,2026-08-08,4020,1157.07,Standard,Delivered,Severe weather caused a terminal delay.
+SHP-1288,Summit Transport,LTL,Indianapolis,IN,Charlotte,NC,2026-09-30,2026-10-05,2026-10-05,10240,3212.69,Standard,Delivered,No exception
+SHP-1289,Summit Transport,LTL,Dallas,TX,Atlanta,GA,2026-07-03,2026-07-08,2026-07-11,5345,1828.79,Standard,Delayed,Weather conditions slowed transit and pushed the expected delivery date.
+SHP-1290,NorthStar Carriers,LTL,Nashville,TN,Charlotte,NC,2026-08-04,2026-08-08,2026-08-08,11186,2631.5,Standard,Delivered,No exception
+SHP-1291,BlueLine Logistics,LTL,Columbus,OH,Dallas,TX,2026-10-04,2026-10-08,2026-10-08,2686,733.8,Standard,Delivered,No exception
+SHP-1292,Apex Freight,FTL,Dallas,TX,Atlanta,GA,2026-10-10,2026-10-12,2026-10-12,41342,6054.78,Standard,Delivered,No exception
+SHP-1293,BlueLine Logistics,Intermodal,Chicago,IL,Nashville,TN,2026-10-03,2026-10-09,2026-10-11,10251,1370.15,Standard,Delivered,Terminal congestion delayed the next movement.
+SHP-1294,Redwood Logistics,Intermodal,Louisville,KY,Atlanta,GA,2026-07-16,2026-07-21,2026-07-21,35880,5654.24,Standard,Delivered,No exception
+SHP-1295,BlueLine Logistics,FTL,Nashville,TN,Charlotte,NC,2026-10-26,2026-10-28,2026-10-28,12932,1816.7,Standard,Delivered,No exception
+SHP-1296,NorthStar Carriers,FTL,St. Louis,MO,Nashville,TN,2026-08-14,2026-08-16,2026-08-16,24015,3753.66,Standard,Delivered,No exception
+SHP-1297,BlueLine Logistics,FTL,Columbus,OH,Dallas,TX,2026-08-25,2026-08-26,2026-08-26,29159,6156.3,Expedited,Delivered,No exception
+SHP-1298,Summit Transport,FTL,Memphis,TN,Chicago,IL,2026-09-05,2026-09-07,2026-09-07,32354,4927.72,Standard,Delivered,No exception
+SHP-1299,NorthStar Carriers,Intermodal,Indianapolis,IN,Charlotte,NC,2026-10-05,2026-10-10,2026-10-10,31311,4579.63,Standard,Delivered,No exception
+SHP-1300,Summit Transport,FTL,Memphis,TN,Chicago,IL,2026-10-08,2026-10-11,2026-10-11,25482,3747.55,Standard,Delivered,No exception
+SHP-1301,NorthStar Carriers,FTL,Chicago,IL,Nashville,TN,2026-10-20,2026-10-23,2026-10-24,15247,1973.23,Standard,Delivered,Carrier reported a mechanical issue with the tractor.
+SHP-1302,Apex Freight,FTL,Columbus,OH,Dallas,TX,2026-08-16,2026-08-18,2026-08-19,14692,2548.87,Standard,Delivered,Freight missed the planned terminal connection.
+SHP-1303,Redwood Logistics,FTL,Detroit,MI,Indianapolis,IN,2026-09-02,2026-09-03,2026-09-03,34943,8623.69,Expedited,Delivered,No exception
+SHP-1304,Apex Freight,LTL,Columbus,OH,Dallas,TX,2026-09-30,2026-10-03,2026-10-03,6167,2567.41,Expedited,Delivered,No exception
+SHP-1305,Apex Freight,FTL,Columbus,OH,Dallas,TX,2026-10-01,2026-10-03,2026-10-03,13025,2283.63,Standard,Delivered,No exception
+SHP-1306,Redwood Logistics,Intermodal,St. Louis,MO,Nashville,TN,2026-09-29,2026-10-04,2026-10-04,35554,5480.89,Standard,Delivered,No exception
+SHP-1307,Apex Freight,LTL,Columbus,OH,Dallas,TX,2026-08-01,2026-08-05,2026-08-05,10614,3451.46,Standard,Delivered,No exception
+SHP-1308,Redwood Logistics,FTL,Columbus,OH,Dallas,TX,2026-07-07,2026-07-09,2026-07-09,23234,3766.08,Standard,Delivered,No exception
+SHP-1309,Summit Transport,LTL,Detroit,MI,Indianapolis,IN,2026-08-12,2026-08-16,2026-08-16,9975,3435.17,Standard,Delivered,No exception
+SHP-1310,Apex Freight,Air,Detroit,MI,Indianapolis,IN,2026-07-20,2026-07-21,2026-07-21,2278,3761.85,Expedited,Delivered,No exception
+SHP-1311,Apex Freight,FTL,Memphis,TN,Chicago,IL,2026-09-09,2026-09-11,2026-09-11,15455,4119.08,Priority,Delivered,No exception
+SHP-1312,BlueLine Logistics,LTL,Chicago,IL,Nashville,TN,2026-07-02,2026-07-05,2026-07-05,3891,1404.07,Expedited,Delivered,No exception
+SHP-1313,BlueLine Logistics,Intermodal,Memphis,TN,Chicago,IL,2026-07-15,2026-07-19,2026-07-19,15579,2661.82,Expedited,Delivered,No exception
+SHP-1314,BlueLine Logistics,LTL,Detroit,MI,Indianapolis,IN,2026-09-24,2026-09-28,2026-09-28,9286,2823.95,Standard,Delivered,No exception
+SHP-1315,Summit Transport,Intermodal,Indianapolis,IN,Charlotte,NC,2026-08-27,2026-09-02,2026-09-02,13420,2219.34,Standard,Delivered,No exception
+SHP-1316,BlueLine Logistics,FTL,Memphis,TN,Chicago,IL,2026-09-27,2026-09-29,2026-09-29,28532,4069.76,Standard,Delivered,No exception
+SHP-1317,Redwood Logistics,FTL,Columbus,OH,Dallas,TX,2026-09-23,2026-09-25,2026-09-25,31612,5880.7,Standard,Delivered,No exception
+SHP-1318,Summit Transport,Intermodal,Chicago,IL,Nashville,TN,2026-08-18,2026-08-23,2026-08-24,38161,7119.19,Expedited,Delivered,Carrier reported a mechanical issue with the tractor.
+SHP-1319,Summit Transport,FTL,Memphis,TN,Chicago,IL,2026-07-23,2026-07-25,2026-07-25,21217,3476.85,Standard,Delivered,No exception
+SHP-1320,NorthStar Carriers,LTL,Indianapolis,IN,Charlotte,NC,2026-08-11,2026-08-14,2026-08-14,4857,1827.91,Expedited,Delivered,No exception
+SHP-1321,BlueLine Logistics,Intermodal,Louisville,KY,Atlanta,GA,2026-08-12,2026-08-16,2026-08-16,39712,7489.08,Expedited,Delivered,No exception
+SHP-1322,NorthStar Carriers,FTL,Atlanta,GA,Chicago,IL,2026-08-25,2026-08-27,2026-08-27,15797,2339.31,Standard,Delivered,No exception
+SHP-1323,Apex Freight,Intermodal,Detroit,MI,Indianapolis,IN,2026-10-20,2026-10-26,2026-10-26,27725,4326.49,Standard,Delivered,No exception
+SHP-1324,Redwood Logistics,LTL,Chicago,IL,Nashville,TN,2026-07-05,2026-07-09,2026-07-09,10394,3294.0,Standard,Delivered,No exception
+SHP-1325,Apex Freight,FTL,Dallas,TX,Atlanta,GA,2026-08-07,2026-08-08,2026-08-12,33340,6227.54,Expedited,Exception,Equipment failure caused the shipment to miss its planned movement.
+SHP-1326,Apex Freight,LTL,Detroit,MI,Indianapolis,IN,2026-09-11,2026-09-15,2026-09-18,7593,1940.62,Standard,Exception,Delivery appointment was rescheduled by the customer.
+SHP-1327,BlueLine Logistics,LTL,Detroit,MI,Indianapolis,IN,2026-10-13,2026-10-17,2026-10-17,9545,2592.63,Standard,Delivered,No exception
+SHP-1328,Summit Transport,Intermodal,Indianapolis,IN,Charlotte,NC,2026-09-10,2026-09-14,2026-09-14,12362,2591.19,Priority,Delivered,No exception
+SHP-1329,NorthStar Carriers,FTL,Memphis,TN,Chicago,IL,2026-07-13,2026-07-16,2026-07-16,30464,3942.32,Standard,Delivered,No exception
+SHP-1330,Redwood Logistics,LTL,Nashville,TN,Charlotte,NC,2026-07-09,2026-07-13,2026-07-13,3521,1051.78,Standard,Delivered,No exception
+SHP-1331,Apex Freight,LTL,Dallas,TX,Atlanta,GA,2026-10-08,2026-10-13,2026-10-13,4094,1089.21,Standard,Delivered,No exception
+SHP-1332,Redwood Logistics,LTL,Detroit,MI,Indianapolis,IN,2026-08-21,2026-08-25,2026-08-25,4750,1702.13,Expedited,Delivered,No exception
+SHP-1333,BlueLine Logistics,FTL,Dallas,TX,Atlanta,GA,2026-10-22,2026-10-23,2026-10-23,12046,2520.3,Expedited,Delivered,No exception
+SHP-1334,Apex Freight,FTL,Detroit,MI,Indianapolis,IN,2026-10-09,2026-10-12,2026-10-12,13688,2066.06,Standard,Delivered,No exception
+SHP-1335,Summit Transport,LTL,Louisville,KY,Atlanta,GA,2026-10-15,2026-10-18,2026-10-18,10727,3722.72,Expedited,Delivered,No exception
+SHP-1336,Redwood Logistics,FTL,Louisville,KY,Atlanta,GA,2026-10-08,2026-10-10,2026-10-10,38590,7233.36,Standard,Delivered,No exception
+SHP-1337,NorthStar Carriers,LTL,Indianapolis,IN,Charlotte,NC,2026-08-11,2026-08-16,2026-08-16,5422,1377.18,Standard,Delivered,No exception
+SHP-1338,BlueLine Logistics,FTL,Detroit,MI,Indianapolis,IN,2026-07-31,2026-08-03,2026-08-03,38164,5258.42,Standard,Delivered,No exception
+SHP-1339,Summit Transport,Intermodal,St. Louis,MO,Nashville,TN,2026-08-22,2026-08-27,2026-08-28,18864,3149.09,Standard,Delayed,Weather conditions slowed transit and pushed the expected delivery date.
+SHP-1340,Apex Freight,LTL,Chicago,IL,Nashville,TN,2026-10-10,2026-10-13,2026-10-15,2766,952.1,Expedited,Delivered,Weather conditions slowed transit and pushed the expected delivery date.
+SHP-1341,BlueLine Logistics,LTL,Louisville,KY,Atlanta,GA,2026-09-22,2026-09-26,2026-09-26,4983,1607.56,Expedited,Delivered,No exception
+SHP-1342,Redwood Logistics,FTL,Louisville,KY,Atlanta,GA,2026-09-05,2026-09-08,2026-09-08,39959,8039.45,Standard,Delivered,No exception
+SHP-1343,Summit Transport,LTL,Columbus,OH,Dallas,TX,2026-08-11,2026-08-15,2026-08-15,11733,3178.4,Standard,Delivered,No exception
+SHP-1344,Summit Transport,FTL,Atlanta,GA,Chicago,IL,2026-10-20,2026-10-23,2026-10-27,34960,6259.11,Standard,Delivered,Severe weather caused a terminal delay.
+SHP-1345,NorthStar Carriers,Intermodal,Indianapolis,IN,Charlotte,NC,2026-09-29,2026-10-04,2026-10-04,27585,4692.79,Expedited,Delivered,No exception
+SHP-1346,Apex Freight,LTL,Nashville,TN,Charlotte,NC,2026-08-19,2026-08-23,2026-08-23,4870,1303.98,Standard,Delivered,No exception
+SHP-1347,Redwood Logistics,LTL,Chicago,IL,Nashville,TN,2026-07-25,2026-07-30,2026-08-01,7073,2340.68,Standard,Delayed,Shipment was held while missing documentation was corrected.
+SHP-1348,NorthStar Carriers,LTL,Dallas,TX,Atlanta,GA,2026-09-15,2026-09-20,2026-09-20,6681,1599.71,Standard,Delivered,No exception
+SHP-1349,Apex Freight,LTL,Indianapolis,IN,Charlotte,NC,2026-09-05,2026-09-09,2026-09-11,2595,1014.23,Expedited,Delivered,Delivery appointment was rescheduled by the customer.
+SHP-1350,Redwood Logistics,FTL,Louisville,KY,Atlanta,GA,2026-10-09,2026-10-12,2026-10-12,23099,3981.77,Standard,Delivered,No exception
+SHP-1351,Summit Transport,FTL,Memphis,TN,Chicago,IL,2026-07-07,2026-07-09,2026-07-09,23201,3923.93,Standard,Delivered,No exception
+SHP-1352,Redwood Logistics,FTL,Indianapolis,IN,Charlotte,NC,2026-07-05,2026-07-08,2026-07-08,37092,7159.67,Standard,Delivered,No exception
+SHP-1353,NorthStar Carriers,LTL,Louisville,KY,Atlanta,GA,2026-07-14,2026-07-16,2026-07-20,5124,2344.5,Priority,Delivered,Limited linehaul capacity caused the shipment to roll to the next departure.
+SHP-1354,Summit Transport,LTL,Detroit,MI,Indianapolis,IN,2026-10-07,2026-10-12,2026-10-12,8355,2781.61,Standard,Delivered,No exception
+SHP-1355,NorthStar Carriers,FTL,Indianapolis,IN,Charlotte,NC,2026-09-18,2026-09-20,2026-09-20,35419,8032.54,Priority,Delivered,No exception
+SHP-1356,NorthStar Carriers,FTL,St. Louis,MO,Nashville,TN,2026-08-20,2026-08-23,2026-08-23,18982,2540.95,Standard,Delivered,No exception
+SHP-1357,Apex Freight,LTL,Indianapolis,IN,Charlotte,NC,2026-08-12,2026-08-16,2026-08-16,9794,2979.61,Standard,Delivered,No exception
+SHP-1358,BlueLine Logistics,FTL,Indianapolis,IN,Charlotte,NC,2026-10-18,2026-10-19,2026-10-19,39075,9568.7,Priority,Delivered,No exception
+SHP-1359,Summit Transport,LTL,St. Louis,MO,Nashville,TN,2026-09-02,2026-09-05,2026-09-05,10957,4506.67,Expedited,Delivered,No exception
+SHP-1360,Summit Transport,FTL,Dallas,TX,Atlanta,GA,2026-08-15,2026-08-17,2026-08-17,27216,4400.69,Standard,Delivered,No exception
+SHP-1361,Redwood Logistics,LTL,Indianapolis,IN,Charlotte,NC,2026-07-06,2026-07-11,2026-07-11,7580,2319.77,Standard,Delivered,No exception
+SHP-1362,BlueLine Logistics,LTL,Louisville,KY,Atlanta,GA,2026-09-04,2026-09-09,2026-09-09,11425,3323.27,Standard,Delivered,No exception
+SHP-1363,Redwood Logistics,FTL,Chicago,IL,Nashville,TN,2026-10-13,2026-10-15,2026-10-15,30456,5797.75,Standard,Delivered,No exception
+SHP-1364,NorthStar Carriers,LTL,Indianapolis,IN,Charlotte,NC,2026-08-31,2026-09-04,2026-09-06,974,295.29,Standard,Delayed,Weather conditions slowed transit and pushed the expected delivery date.
+SHP-1365,Summit Transport,LTL,Columbus,OH,Dallas,TX,2026-10-08,2026-10-12,2026-10-12,8513,2344.19,Standard,Delivered,No exception
+SHP-1366,Apex Freight,FTL,Nashville,TN,Charlotte,NC,2026-08-12,2026-08-13,2026-08-13,22584,4517.79,Expedited,Delivered,No exception
+SHP-1367,Apex Freight,FTL,Atlanta,GA,Chicago,IL,2026-08-10,2026-08-12,2026-08-12,24071,4317.93,Standard,Delivered,No exception
+SHP-1368,NorthStar Carriers,FTL,St. Louis,MO,Nashville,TN,2026-09-26,2026-09-29,2026-10-01,40102,6636.9,Standard,Delivered,Limited linehaul capacity caused the shipment to roll to the next departure.
+SHP-1369,Summit Transport,LTL,Columbus,OH,Dallas,TX,2026-07-13,2026-07-17,2026-07-17,9744,3114.63,Standard,Delivered,No exception
+SHP-1370,BlueLine Logistics,Intermodal,Chicago,IL,Nashville,TN,2026-08-12,2026-08-17,2026-08-17,24785,3886.35,Expedited,Delivered,No exception
+SHP-1371,Apex Freight,FTL,Columbus,OH,Dallas,TX,2026-09-05,2026-09-07,2026-09-07,22530,5132.74,Expedited,Delivered,No exception
+SHP-1372,Redwood Logistics,Intermodal,Memphis,TN,Chicago,IL,2026-07-28,2026-08-02,2026-08-02,22675,3395.93,Standard,Delivered,No exception
+SHP-1373,Apex Freight,FTL,Indianapolis,IN,Charlotte,NC,2026-09-09,2026-09-11,2026-09-11,28304,4622.22,Standard,Delivered,No exception
+SHP-1374,NorthStar Carriers,LTL,Dallas,TX,Atlanta,GA,2026-08-21,2026-08-25,2026-08-27,9964,2853.52,Standard,Delivered,Shipment was held while missing documentation was corrected.
+SHP-1375,Redwood Logistics,LTL,Atlanta,GA,Chicago,IL,2026-10-14,2026-10-17,2026-10-17,8143,3728.02,Expedited,Delivered,No exception
+SHP-1376,Apex Freight,Intermodal,Columbus,OH,Dallas,TX,2026-07-09,2026-07-13,2026-07-13,16261,2938.66,Expedited,Delivered,No exception
+SHP-1377,BlueLine Logistics,FTL,Louisville,KY,Atlanta,GA,2026-07-13,2026-07-15,2026-07-15,23896,4251.72,Expedited,Delivered,No exception
+SHP-1378,Apex Freight,Intermodal,Columbus,OH,Dallas,TX,2026-09-11,2026-09-15,2026-09-15,21680,3967.98,Expedited,Delivered,No exception
+SHP-1379,Summit Transport,LTL,Louisville,KY,Atlanta,GA,2026-08-23,2026-08-27,2026-08-27,7193,2185.63,Standard,Delivered,No exception
+SHP-1380,NorthStar Carriers,LTL,Atlanta,GA,Chicago,IL,2026-09-17,2026-09-22,2026-09-22,3640,996.45,Standard,Delivered,No exception
+SHP-1381,Apex Freight,LTL,St. Louis,MO,Nashville,TN,2026-08-04,2026-08-09,2026-08-09,8221,2427.02,Standard,Delivered,No exception
+SHP-1382,Apex Freight,LTL,Nashville,TN,Charlotte,NC,2026-07-29,2026-08-02,2026-08-02,2560,1022.01,Expedited,Delivered,No exception
+SHP-1383,Apex Freight,LTL,Louisville,KY,Atlanta,GA,2026-07-04,2026-07-08,2026-07-08,8421,3005.98,Expedited,Delivered,No exception
+SHP-1384,NorthStar Carriers,LTL,Atlanta,GA,Chicago,IL,2026-08-30,2026-09-04,2026-09-05,6922,2086.91,Standard,Delivered,Equipment failure caused the shipment to miss its planned movement.
+SHP-1385,Redwood Logistics,Intermodal,Dallas,TX,Atlanta,GA,2026-08-09,2026-08-15,2026-08-15,22125,3510.32,Standard,Delivered,No exception
+SHP-1386,Apex Freight,Intermodal,Louisville,KY,Atlanta,GA,2026-08-31,2026-09-06,2026-09-06,22310,3373.33,Standard,Delivered,No exception
+SHP-1387,Redwood Logistics,FTL,Detroit,MI,Indianapolis,IN,2026-09-01,2026-09-04,2026-09-05,17934,3062.34,Standard,Delivered,Equipment failure caused the shipment to miss its planned movement.
+SHP-1388,NorthStar Carriers,LTL,Dallas,TX,Atlanta,GA,2026-07-12,2026-07-16,2026-07-19,6636,2378.4,Expedited,Delayed,Carrier reported a mechanical issue with the tractor.
+SHP-1389,Apex Freight,FTL,Indianapolis,IN,Charlotte,NC,2026-10-27,2026-10-29,2026-10-29,13052,2309.88,Standard,Delivered,No exception
+SHP-1390,NorthStar Carriers,Intermodal,Dallas,TX,Atlanta,GA,2026-07-10,2026-07-15,2026-07-15,36091,6103.96,Expedited,Delivered,No exception
+SHP-1391,Summit Transport,LTL,Louisville,KY,Atlanta,GA,2026-09-12,2026-09-14,2026-09-14,808,428.75,Priority,Delivered,No exception
+SHP-1392,Apex Freight,LTL,Louisville,KY,Atlanta,GA,2026-08-23,2026-08-27,2026-08-27,11897,4726.11,Expedited,Delivered,No exception
+SHP-1393,BlueLine Logistics,FTL,Atlanta,GA,Chicago,IL,2026-09-11,2026-09-12,2026-09-12,28642,5116.16,Expedited,Delivered,No exception
+SHP-1394,Summit Transport,FTL,Louisville,KY,Atlanta,GA,2026-07-17,2026-07-19,2026-07-19,31134,4862.04,Standard,Delivered,No exception
+SHP-1395,NorthStar Carriers,LTL,St. Louis,MO,Nashville,TN,2026-09-08,2026-09-13,2026-09-13,6699,1591.59,Standard,Delivered,No exception
+SHP-1396,Redwood Logistics,Air,Columbus,OH,Dallas,TX,2026-09-27,2026-09-28,2026-09-28,2361,3799.77,Expedited,Delivered,No exception
+SHP-1397,Summit Transport,LTL,St. Louis,MO,Nashville,TN,2026-07-02,2026-07-04,2026-07-06,7488,3311.77,Priority,Delayed,Carrier reported a mechanical issue with the tractor.
+SHP-1398,NorthStar Carriers,FTL,Dallas,TX,Atlanta,GA,2026-07-25,2026-07-28,2026-07-28,24555,3173.49,Standard,Delivered,No exception
+SHP-1399,Apex Freight,FTL,Columbus,OH,Dallas,TX,2026-09-06,2026-09-08,2026-09-08,25038,3836.66,Standard,Delivered,No exception
+SHP-1400,NorthStar Carriers,FTL,St. Louis,MO,Nashville,TN,2026-10-25,2026-10-27,2026-10-27,13706,2905.72,Priority,Delivered,No exception
+SHP-1401,Summit Transport,LTL,Atlanta,GA,Chicago,IL,2026-10-06,2026-10-11,2026-10-11,5689,1892.75,Standard,Delivered,No exception
+SHP-1402,NorthStar Carriers,LTL,St. Louis,MO,Nashville,TN,2026-08-29,2026-09-02,2026-09-02,7530,2170.93,Standard,Delivered,No exception
+SHP-1403,Apex Freight,LTL,Memphis,TN,Chicago,IL,2026-08-21,2026-08-26,2026-08-26,2908,795.07,Standard,Delivered,No exception
+SHP-1404,Summit Transport,LTL,Chicago,IL,Nashville,TN,2026-09-13,2026-09-17,2026-09-17,4086,1191.21,Standard,Delivered,No exception
+SHP-1405,Redwood Logistics,Intermodal,Louisville,KY,Atlanta,GA,2026-09-29,2026-10-05,2026-10-05,22950,3547.14,Standard,Delivered,No exception
+SHP-1406,Redwood Logistics,LTL,Columbus,OH,Dallas,TX,2026-09-01,2026-09-05,2026-09-05,10102,3192.95,Standard,Delivered,No exception
+SHP-1407,Apex Freight,Intermodal,St. Louis,MO,Nashville,TN,2026-09-05,2026-09-11,2026-09-11,28644,3550.88,Standard,Delivered,No exception
+SHP-1408,Summit Transport,FTL,Indianapolis,IN,Charlotte,NC,2026-07-15,2026-07-17,2026-07-17,21914,3209.89,Standard,Delivered,No exception
+SHP-1409,Summit Transport,FTL,Dallas,TX,Atlanta,GA,2026-07-20,2026-07-22,2026-07-22,21872,3420.74,Standard,Delivered,No exception
+SHP-1410,Summit Transport,Intermodal,Chicago,IL,Nashville,TN,2026-09-23,2026-09-28,2026-10-03,27089,4120.77,Standard,Delivered,Terminal congestion delayed the next movement.
+SHP-1411,BlueLine Logistics,FTL,Nashville,TN,Charlotte,NC,2026-09-06,2026-09-08,2026-09-08,25124,3477.46,Standard,Delivered,No exception
+SHP-1412,Redwood Logistics,FTL,Columbus,OH,Dallas,TX,2026-10-28,2026-10-30,2026-11-03,41038,7463.27,Standard,Delivered,Consignee requested a later delivery appointment.
+SHP-1413,Apex Freight,LTL,Dallas,TX,Atlanta,GA,2026-09-19,2026-09-24,2026-09-24,3307,852.87,Standard,Delivered,No exception
+SHP-1414,BlueLine Logistics,Air,Detroit,MI,Indianapolis,IN,2026-10-13,2026-10-14,2026-10-14,2455,2877.91,Standard,Delivered,No exception
+SHP-1415,Apex Freight,LTL,Indianapolis,IN,Charlotte,NC,2026-09-21,2026-09-25,2026-09-25,8519,2312.55,Standard,Delivered,No exception
+SHP-1416,Redwood Logistics,Intermodal,Louisville,KY,Atlanta,GA,2026-10-03,2026-10-08,2026-10-08,31354,4568.01,Standard,Delivered,No exception
+SHP-1417,Apex Freight,Air,St. Louis,MO,Nashville,TN,2026-07-02,2026-07-03,2026-07-03,3278,3762.77,Standard,Delivered,No exception
+SHP-1418,NorthStar Carriers,FTL,Columbus,OH,Dallas,TX,2026-07-03,2026-07-05,2026-07-05,39902,7913.62,Expedited,Delivered,No exception
+SHP-1419,Apex Freight,Intermodal,Dallas,TX,Atlanta,GA,2026-07-18,2026-07-23,2026-07-24,20091,2663.51,Standard,Exception,Freight missed the planned terminal connection.
+SHP-1420,NorthStar Carriers,LTL,Nashville,TN,Charlotte,NC,2026-07-13,2026-07-18,2026-07-18,6744,1702.39,Standard,Delivered,No exception
+SHP-1421,Apex Freight,FTL,Louisville,KY,Atlanta,GA,2026-07-24,2026-07-27,2026-07-27,19838,3226.6,Standard,Delivered,No exception
+SHP-1422,Redwood Logistics,LTL,Columbus,OH,Dallas,TX,2026-10-07,2026-10-10,2026-10-10,8736,3642.58,Expedited,Delivered,No exception
+SHP-1423,Redwood Logistics,FTL,Indianapolis,IN,Charlotte,NC,2026-07-24,2026-07-26,2026-07-26,26923,4872.07,Standard,Delivered,No exception
+SHP-1424,Apex Freight,LTL,Nashville,TN,Charlotte,NC,2026-07-20,2026-07-24,2026-07-24,9952,3709.4,Expedited,Delivered,No exception
+SHP-1425,Redwood Logistics,LTL,Louisville,KY,Atlanta,GA,2026-07-16,2026-07-20,2026-07-20,9158,3224.91,Standard,Delivered,No exception
+SHP-1426,Apex Freight,FTL,St. Louis,MO,Nashville,TN,2026-09-10,2026-09-11,2026-09-11,14534,3021.03,Expedited,Delivered,No exception
+SHP-1427,Summit Transport,FTL,Dallas,TX,Atlanta,GA,2026-07-31,2026-08-01,2026-08-01,26656,5924.31,Expedited,Delivered,No exception
+SHP-1428,NorthStar Carriers,LTL,Louisville,KY,Atlanta,GA,2026-08-03,2026-08-05,2026-08-05,1553,599.27,Priority,Delivered,No exception
+SHP-1429,BlueLine Logistics,LTL,Memphis,TN,Chicago,IL,2026-07-14,2026-07-19,2026-07-19,5271,1368.01,Standard,Delivered,No exception
+SHP-1430,Apex Freight,LTL,Atlanta,GA,Chicago,IL,2026-10-12,2026-10-16,2026-10-17,9584,2618.51,Standard,Delivered,Freight missed the planned terminal connection.
+SHP-1431,NorthStar Carriers,FTL,Nashville,TN,Charlotte,NC,2026-07-01,2026-07-04,2026-07-04,23391,3700.24,Standard,Delivered,No exception
+SHP-1432,Summit Transport,LTL,Columbus,OH,Dallas,TX,2026-07-22,2026-07-24,2026-07-24,8328,3687.39,Priority,Delivered,No exception
+SHP-1433,Redwood Logistics,FTL,Indianapolis,IN,Charlotte,NC,2026-10-15,2026-10-17,2026-10-17,35485,6331.51,Standard,Delivered,No exception
+SHP-1434,Summit Transport,FTL,St. Louis,MO,Nashville,TN,2026-08-30,2026-09-01,2026-09-01,36071,5678.15,Standard,Delivered,No exception
+SHP-1435,Summit Transport,FTL,Dallas,TX,Atlanta,GA,2026-10-14,2026-10-17,2026-10-20,24291,4046.4,Standard,Delayed,Weather conditions slowed transit and pushed the expected delivery date.
+SHP-1436,Redwood Logistics,Intermodal,Louisville,KY,Atlanta,GA,2026-09-25,2026-09-29,2026-09-29,20125,5017.02,Priority,Delivered,No exception
+SHP-1437,NorthStar Carriers,FTL,Indianapolis,IN,Charlotte,NC,2026-07-30,2026-08-02,2026-08-02,36579,5141.6,Standard,Delivered,No exception
+SHP-1438,NorthStar Carriers,LTL,Nashville,TN,Charlotte,NC,2026-07-25,2026-07-30,2026-07-30,11070,3293.37,Standard,Delivered,No exception
+SHP-1439,Apex Freight,Air,Atlanta,GA,Chicago,IL,2026-10-17,2026-10-18,2026-10-18,1353,1541.73,Standard,Delivered,No exception
+SHP-1440,BlueLine Logistics,Air,Dallas,TX,Atlanta,GA,2026-07-21,2026-07-22,2026-07-22,3842,4563.71,Standard,Delivered,No exception
+SHP-1441,Apex Freight,FTL,St. Louis,MO,Nashville,TN,2026-08-22,2026-08-24,2026-08-24,20441,3103.44,Standard,Delivered,No exception
+SHP-1442,BlueLine Logistics,LTL,Memphis,TN,Chicago,IL,2026-09-24,2026-09-28,2026-09-30,7773,2019.47,Standard,Delivered,Equipment failure caused the shipment to miss its planned movement.
+SHP-1443,Apex Freight,LTL,Atlanta,GA,Chicago,IL,2026-08-09,2026-08-14,2026-08-14,2719,721.33,Standard,Delivered,No exception
+SHP-1444,NorthStar Carriers,Intermodal,St. Louis,MO,Nashville,TN,2026-07-29,2026-08-04,2026-08-05,18225,2520.33,Standard,Delivered,Terminal congestion delayed the next movement.
+SHP-1445,Apex Freight,FTL,Detroit,MI,Indianapolis,IN,2026-09-10,2026-09-12,2026-09-12,14114,2491.5,Standard,Delivered,No exception
+SHP-1446,Apex Freight,LTL,Columbus,OH,Dallas,TX,2026-09-15,2026-09-18,2026-09-18,10372,3309.51,Expedited,Delivered,No exception
+SHP-1447,Apex Freight,FTL,Louisville,KY,Atlanta,GA,2026-08-17,2026-08-19,2026-08-19,13386,1917.66,Standard,Delivered,No exception
+SHP-1448,Apex Freight,FTL,Detroit,MI,Indianapolis,IN,2026-10-18,2026-10-19,2026-10-19,40931,10892.2,Priority,Delivered,No exception
+SHP-1449,Apex Freight,LTL,St. Louis,MO,Nashville,TN,2026-07-08,2026-07-12,2026-07-14,3919,1206.33,Standard,Exception,Consignee requested a later delivery appointment.
+SHP-1450,Summit Transport,FTL,St. Louis,MO,Nashville,TN,2026-09-27,2026-09-28,2026-09-30,30749,6072.67,Expedited,Delivered,Limited linehaul capacity caused the shipment to roll to the next departure.
+SHP-1451,Apex Freight,FTL,Chicago,IL,Nashville,TN,2026-07-18,2026-07-20,2026-07-21,20725,3677.66,Expedited,Delivered,Shipment was held while missing documentation was corrected.
+SHP-1452,BlueLine Logistics,LTL,St. Louis,MO,Nashville,TN,2026-09-08,2026-09-12,2026-09-16,6676,2054.9,Standard,Delivered,Terminal congestion delayed the next movement.
+SHP-1453,Summit Transport,LTL,Nashville,TN,Charlotte,NC,2026-07-29,2026-08-02,2026-08-03,7709,2486.26,Standard,Delivered,Delivery appointment was rescheduled by the customer.
+SHP-1454,NorthStar Carriers,LTL,Dallas,TX,Atlanta,GA,2026-09-12,2026-09-16,2026-09-17,10112,2933.29,Standard,Delivered,Delivery appointment was rescheduled by the customer.
+SHP-1455,Apex Freight,Intermodal,Dallas,TX,Atlanta,GA,2026-08-25,2026-08-30,2026-08-30,20383,2849.69,Standard,Delivered,No exception
+SHP-1456,Summit Transport,LTL,Indianapolis,IN,Charlotte,NC,2026-07-14,2026-07-19,2026-07-24,2389,689.48,Standard,Exception,Equipment failure caused the shipment to miss its planned movement.
+SHP-1457,BlueLine Logistics,Intermodal,Nashville,TN,Charlotte,NC,2026-09-06,2026-09-11,2026-09-11,13445,1722.11,Standard,Delivered,No exception
+SHP-1458,BlueLine Logistics,Intermodal,Atlanta,GA,Chicago,IL,2026-07-15,2026-07-21,2026-07-21,22410,2984.61,Standard,Delivered,No exception
+SHP-1459,BlueLine Logistics,Intermodal,St. Louis,MO,Nashville,TN,2026-07-05,2026-07-11,2026-07-11,19262,2260.11,Standard,Delivered,No exception
+SHP-1460,Apex Freight,LTL,Chicago,IL,Nashville,TN,2026-07-02,2026-07-06,2026-07-06,1234,333.16,Standard,Delivered,No exception
+SHP-1461,BlueLine Logistics,Air,Nashville,TN,Charlotte,NC,2026-09-30,2026-10-02,2026-10-02,3843,4565.73,Standard,Delivered,No exception
+SHP-1462,NorthStar Carriers,LTL,Detroit,MI,Indianapolis,IN,2026-07-22,2026-07-25,2026-07-25,2134,639.48,Expedited,Delivered,No exception
+SHP-1463,BlueLine Logistics,FTL,St. Louis,MO,Nashville,TN,2026-09-18,2026-09-20,2026-09-20,14826,2346.8,Standard,Delivered,No exception
+SHP-1464,Apex Freight,LTL,St. Louis,MO,Nashville,TN,2026-07-16,2026-07-20,2026-07-20,7632,2293.7,Standard,Delivered,No exception
+SHP-1465,NorthStar Carriers,LTL,Louisville,KY,Atlanta,GA,2026-08-28,2026-08-30,2026-08-30,9198,3797.73,Priority,Delivered,No exception
+SHP-1466,Apex Freight,Intermodal,Chicago,IL,Nashville,TN,2026-08-23,2026-08-28,2026-08-28,12547,1568.25,Standard,Delivered,No exception
+SHP-1467,NorthStar Carriers,FTL,Nashville,TN,Charlotte,NC,2026-07-08,2026-07-10,2026-07-10,14147,2333.68,Standard,Delivered,No exception
+SHP-1468,Summit Transport,LTL,Louisville,KY,Atlanta,GA,2026-08-28,2026-09-01,2026-09-01,10483,2855.31,Standard,Delivered,No exception
+SHP-1469,Apex Freight,FTL,Detroit,MI,Indianapolis,IN,2026-08-07,2026-08-10,2026-08-10,33231,5546.46,Standard,Delivered,No exception
+SHP-1470,BlueLine Logistics,LTL,Atlanta,GA,Chicago,IL,2026-10-15,2026-10-19,2026-10-19,1276,414.9,Expedited,Delivered,No exception
+SHP-1471,Redwood Logistics,FTL,St. Louis,MO,Nashville,TN,2026-07-04,2026-07-06,2026-07-06,22540,4436.91,Standard,Delivered,No exception
+SHP-1472,Redwood Logistics,LTL,Indianapolis,IN,Charlotte,NC,2026-09-28,2026-10-03,2026-10-04,8536,2890.2,Standard,Delivered,Consignee requested a later delivery appointment.
+SHP-1473,Redwood Logistics,LTL,Detroit,MI,Indianapolis,IN,2026-09-02,2026-09-06,2026-09-07,2802,872.57,Standard,Delivered,Shipment was held while missing documentation was corrected.
+SHP-1474,Summit Transport,LTL,St. Louis,MO,Nashville,TN,2026-07-22,2026-07-26,2026-07-26,10433,3036.36,Standard,Delivered,No exception
+SHP-1475,Summit Transport,LTL,St. Louis,MO,Nashville,TN,2026-08-09,2026-08-13,2026-08-13,2053,694.13,Standard,Delivered,No exception
+SHP-1476,Summit Transport,Intermodal,Chicago,IL,Nashville,TN,2026-08-13,2026-08-19,2026-08-19,28352,4652.96,Standard,Delivered,No exception
+SHP-1477,Apex Freight,Air,Louisville,KY,Atlanta,GA,2026-08-24,2026-08-25,2026-08-25,3479,4301.48,Standard,Delivered,No exception
+SHP-1478,Summit Transport,LTL,Indianapolis,IN,Charlotte,NC,2026-10-21,2026-10-26,2026-10-26,2141,592.35,Standard,Delivered,No exception
+SHP-1479,BlueLine Logistics,Air,Memphis,TN,Chicago,IL,2026-09-22,2026-09-23,2026-09-23,2988,3034.06,Standard,Delivered,No exception
+SHP-1480,NorthStar Carriers,LTL,Dallas,TX,Atlanta,GA,2026-10-11,2026-10-15,2026-10-15,5563,1651.5,Standard,Delivered,No exception
+SHP-1481,Summit Transport,Intermodal,Chicago,IL,Nashville,TN,2026-10-14,2026-10-19,2026-10-19,17551,2318.33,Standard,Delivered,No exception
+SHP-1482,NorthStar Carriers,FTL,St. Louis,MO,Nashville,TN,2026-09-03,2026-09-05,2026-09-05,30521,4654.53,Standard,Delivered,No exception
+SHP-1483,BlueLine Logistics,FTL,Chicago,IL,Nashville,TN,2026-10-03,2026-10-04,2026-10-04,37823,7522.66,Expedited,Delivered,No exception
+SHP-1484,Apex Freight,FTL,Columbus,OH,Dallas,TX,2026-09-20,2026-09-22,2026-09-22,32760,5775.38,Standard,Delivered,No exception
+SHP-1485,Redwood Logistics,LTL,Detroit,MI,Indianapolis,IN,2026-09-06,2026-09-08,2026-09-10,3351,1605.16,Priority,Delivered,Carrier reported a mechanical issue with the tractor.
+SHP-1486,Apex Freight,FTL,Memphis,TN,Chicago,IL,2026-08-01,2026-08-04,2026-08-04,22931,3562.2,Standard,Delivered,No exception
+SHP-1487,Apex Freight,LTL,St. Louis,MO,Nashville,TN,2026-10-21,2026-10-26,2026-10-26,9847,2513.72,Standard,Delivered,No exception
+SHP-1488,Summit Transport,Air,Chicago,IL,Nashville,TN,2026-07-05,2026-07-06,2026-07-06,3757,5189.96,Expedited,Delivered,No exception
+SHP-1489,Apex Freight,LTL,Detroit,MI,Indianapolis,IN,2026-08-11,2026-08-14,2026-08-14,8905,3531.87,Expedited,Delivered,No exception
+SHP-1490,NorthStar Carriers,FTL,Chicago,IL,Nashville,TN,2026-09-13,2026-09-16,2026-09-16,41003,5974.36,Standard,Delivered,No exception
+SHP-1491,NorthStar Carriers,LTL,Louisville,KY,Atlanta,GA,2026-09-21,2026-09-25,2026-09-25,5434,1622.85,Standard,Delivered,No exception
+SHP-1492,Redwood Logistics,LTL,Indianapolis,IN,Charlotte,NC,2026-09-06,2026-09-09,2026-09-09,10141,4322.72,Expedited,Delivered,No exception
+SHP-1493,Apex Freight,LTL,Detroit,MI,Indianapolis,IN,2026-10-03,2026-10-06,2026-10-06,3881,1238.98,Expedited,Delivered,No exception
+SHP-1494,Summit Transport,LTL,Nashville,TN,Charlotte,NC,2026-10-11,2026-10-16,2026-10-16,9888,3234.94,Standard,Delivered,No exception
+SHP-1495,BlueLine Logistics,Intermodal,Memphis,TN,Chicago,IL,2026-10-25,2026-10-31,2026-11-02,39052,5309.45,Standard,Delayed,Limited linehaul capacity caused the shipment to roll to the next departure.
+SHP-1496,NorthStar Carriers,FTL,St. Louis,MO,Nashville,TN,2026-09-11,2026-09-13,2026-09-13,19341,4924.04,Priority,Delivered,No exception
+SHP-1497,Redwood Logistics,LTL,Atlanta,GA,Chicago,IL,2026-09-29,2026-10-03,2026-10-03,6749,2197.35,Standard,Delivered,No exception
+SHP-1498,NorthStar Carriers,FTL,Atlanta,GA,Chicago,IL,2026-10-04,2026-10-07,2026-10-07,32374,4343.41,Standard,Delivered,No exception
+SHP-1499,Apex Freight,LTL,Memphis,TN,Chicago,IL,2026-10-09,2026-10-14,2026-10-14,689,184.7,Standard,Delivered,No exception
+SHP-1500,NorthStar Carriers,LTL,Detroit,MI,Indianapolis,IN,2026-09-24,2026-09-29,2026-09-30,4426,1199.45,Standard,Delivered,Terminal congestion delayed the next movement.
